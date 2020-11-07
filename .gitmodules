@@ -1,0 +1,6 @@
+[submodule "archive"]
+	path = archive
+	url = ../linux-archive
+[submodule "source"]
+	path = source
+	url = ../simple-source
