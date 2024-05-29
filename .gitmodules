@@ -7,10 +7,6 @@
 [submodule "operating-system"]
 	path = operating-system
 	url = ../linux-operating-system
-[submodule "linux-port"]
-	path = linux-port
-	url = ../linux-port
-	branch = main
 [submodule "port"]
 	path = port
 	url = ../linux-port
