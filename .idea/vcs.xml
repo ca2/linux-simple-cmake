@@ -2,9 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/operating-system" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/operating-system/operating_system-linux" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/operating-system/operating_system-posix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating_system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating_system/operating_system-linux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating_system/operating_system-posix" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/port" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/port/base" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/port/base/id3lib" vcs="Git" />
